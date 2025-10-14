@@ -27,6 +27,8 @@ public class ArrayCreateByNewExample {
 		}
 		System.out.println();
 		
+		
+		
 		arr2[0] = 0.1;
 		arr2[1] = 0.2;
 		arr2[2] = 0.3;

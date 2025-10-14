@@ -17,6 +17,8 @@ public class IndexOfContainsExample {
 			System.out.println("자바와 관련없는 책이군요");
 		}
 		
+		
+		
 		boolean result = subject.contains("자바");
 		if(result) {
 			System.out.println("자방와 관련된 책이군요");

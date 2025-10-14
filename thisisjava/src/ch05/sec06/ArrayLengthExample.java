@@ -16,6 +16,7 @@ public class ArrayLengthExample {
 		System.out.println("평균 : "+avg);
 		
 
+		
 	}
 
 }

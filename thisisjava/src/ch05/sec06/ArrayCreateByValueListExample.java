@@ -15,6 +15,8 @@ public class ArrayCreateByValueListExample {
 		System.out.println("season[1] : "+season[1]);
 		System.out.println();
 		
+		
+		
 		int[] scores= {83,90,87};
 		
 		int sum = 0;
